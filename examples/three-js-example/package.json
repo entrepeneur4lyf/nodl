@@ -46,6 +46,6 @@
         "@types/color": "^3.0.3",
         "@types/node": "^18.7.18",
         "copy-webpack-plugin": "^10.2.4",
-        "webpack-dev-server": "^4.11.1"
+        "webpack-dev-server": "^5.2.1"
     }
 }
