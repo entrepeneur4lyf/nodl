@@ -51,7 +51,7 @@
         "ts-jest": "^29.0.3",
         "ts-loader": "^9.4.2",
         "typedoc": "^0.23.26",
-        "webpack": "^5.75.0",
+        "webpack": "^5.104.1",
         "webpack-cli": "^5.0.1"
     },
     "peerDependencies": {
